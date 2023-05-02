@@ -1,0 +1,10 @@
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Būtaitė"
+  given-names: "Unė Gabrielė"
+  orcid: "https://orcid.org/0000-0002-7001-6126"
+- family-names: "Sharp"
+  given-names: "Christina"
+title: "Tweezers Optimiser"
+date-released: 2023-05-02
+url: "https://github.com/structuredlightlab/tweezersOptimiser/"
