@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>7ae45043-f119-4236-b274-058c3e29bde7</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>OTT: Optical Tweezers Toolbox</name>
+  <author>Isaac Lenton</author>
+  <version>1.5.6</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/7ae45043-f119-4236-b274-058c3e29bde7/02f36559-1919-4017-83a6-013e466f339f/packages/zip?src=addons_ml_desktop_install&amp;profile_id=10247898&amp;license=294300&amp;release_family=R2019a</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/7ae45043-f119-4236-b274-058c3e29bde7/1.5.6/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/7ae45043-f119-4236-b274-058c3e29bde7/02f36559-1919-4017-83a6-013e466f339f/images/screenshot.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/7ae45043-f119-4236-b274-058c3e29bde7/02f36559-1919-4017-83a6-013e466f339f/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>

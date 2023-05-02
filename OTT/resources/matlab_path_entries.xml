@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<paths>
+
+  <path>.</path>
+
+  <path>ilent2-ott-16ce274</path>
+
+  <path>ilent2-ott-16ce274/docs</path>
+
+  <path>ilent2-ott-16ce274/docs/images</path>
+
+  <path>ilent2-ott-16ce274/docs/images/Conception</path>
+
+  <path>ilent2-ott-16ce274/docs/images/examples</path>
+
+  <path>ilent2-ott-16ce274/docs/images/examples/beamCreation</path>
+
+  <path>ilent2-ott-16ce274/docs/images/examples/ddaVaterite</path>
+
+  <path>ilent2-ott-16ce274/docs/images/examples/exampleSphere</path>
+
+  <path>ilent2-ott-16ce274/docs/images/examples/guiExample</path>
+
+  <path>ilent2-ott-16ce274/docs/images/gettingStarted</path>
+
+  <path>ilent2-ott-16ce274/docs/_static</path>
+
+  <path>ilent2-ott-16ce274/examples</path>
+
+  <path>ilent2-ott-16ce274/examples/liveScripts</path>
+
+  <path>ilent2-ott-16ce274/tests</path>
+
+  <path>ilent2-ott-16ce274/tests/shapes</path>
+
+  <path>ilent2-ott-16ce274/tests/utils</path>
+
+  <path>ilent2-ott-16ce274/thirdparty</path>
+
+</paths>
