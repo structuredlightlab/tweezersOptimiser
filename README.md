@@ -3,12 +3,10 @@ These are the codes that were used to simulate the results published in the "Pho
 
 The "madeToMeasure" code contains everything you need to tailor your own optical trap for a chosen spherical particle. 
 
-The "Functions" folder contains functions called by "madeToMeasure".
+The "Functions" folder contains functions called by "madeToMeasure".<br/><br/><br/>
 
 The "OTT" folder contains the Optical Tweezers Toolbox codes in the exact version that was used for this project, which includes a few minor modifications and a few custom functions; see below for more details. 
-OTT is copyright 2007-2018 by The University of Queensland under the Creative Commons Attribution-NonCommercial 4.0 International License http://creativecommons.org/licenses/by-nc/4.0/. Documentation for OTT is available at https://ott.readthedocs.io/en/latest/. <br/><br/><br/><br/>
-
-
+OTT is copyright 2007-2018 by The University of Queensland under the Creative Commons Attribution-NonCommercial 4.0 International License http://creativecommons.org/licenses/by-nc/4.0/. The licence and codes for OTT are available at https://github.com/ilent2/ott. Documentation for OTT is available at https://ott.readthedocs.io/en/latest/.  
 
 These are the functions in the "OTT" folder that are not part of the OTT suite and were written by us:  
 find_equilibrium_UB  
